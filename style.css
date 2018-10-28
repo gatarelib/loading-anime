@@ -1,0 +1,20 @@
+﻿/* CSS Document */
+html, body
+{
+  background:#E9E9E9;
+    overflow:hidden;
+}
+
+#canvas{
+    margin:0 auto;
+    display:block;
+}
+h1{
+    font-family:Roboto;
+    color: #070707;
+    font-size: 80px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-100%,-110%);
+}
